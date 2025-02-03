@@ -1,0 +1,49 @@
+-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw
+
+-- Decompiler will be improved soon!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/wyButjTMhM)
+-- Decompiled on 2025-02-03 11:49:57
+-- Luau version 6, Types version 3
+-- Time taken: 0.000774 seconds
+
+return {{
+    Name = "Amateur Skatepark";
+    Image = "rbxassetid://109309365331546";
+    Cost = 0;
+    Systems = {{
+        Name = "Skate Tricks";
+        Icon = "rbxassetid://115926053135618";
+    }};
+}, {
+    Name = "Alley";
+    Image = "rbxassetid://87173637537596";
+    Cost = 10;
+    Systems = {{
+        Name = "Enchantments";
+        Icon = "rbxassetid://134964680509494";
+    }};
+}, {
+    Name = "City";
+    Image = "rbxassetid://70573176041279";
+    Cost = 750;
+    Systems = {{
+        Name = "Player Auras";
+        Icon = "rbxassetid://121350096685527";
+    }};
+}, {
+    Name = "Plaza";
+    Image = "rbxassetid://117988729393930";
+    Cost = 900;
+    Systems = {{
+        Name = "Traits";
+        Icon = "rbxassetid://136744233584966";
+    }};
+}, {
+    Name = "Beach";
+    Image = "rbxassetid://90725505270822";
+    Cost = 1000;
+    Systems = {{
+        Name = "Skate Auras";
+        Icon = "rbxassetid://106507160920055";
+    }};
+}}
